@@ -1,3 +1,38 @@
-body {
-    background-color: pink;
+/*селектор {*/
+    /*свойство: значение;*/
+
+/*}*/
+
+
+h2  {
+    color: red;
+    text-align: center;
+    /*text-decoration: underline;*/
+    /*text-decoration: line-through;*/
+    font-size: 30px;
+}
+
+.Sonic {
+    color: cyan;
+
+}
+
+
+#EXE {
+    color: cyan;
+    font-weight: bold;
+}
+
+.text {
+    color: cyan;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+
+.box {
+    widows: 300px;
+    height: 300px;
+    background-color: gold;
+    padding: 20px 50px;
 }
